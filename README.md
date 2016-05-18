@@ -15,3 +15,5 @@ someTimePasses(anyAmount);
 infinity =  y;
 doSomethingBasedOn(infinity, choice);
 }
+
+#visualized here https://vimeo.com/167074038
